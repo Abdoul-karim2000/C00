@@ -1,3 +1,3 @@
 #!/bin/bash
-#,ce script affiche hello world a l'ecrant
-echo "hello,world !"
+# ce script affiche Hello World a l'ecrant
+echo "Hello,World !"
